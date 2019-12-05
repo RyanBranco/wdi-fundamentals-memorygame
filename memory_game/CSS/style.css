@@ -7,7 +7,8 @@ h1 {
     font-weight: 400;
     font-size: 45px;
     letter-spacing: 1px;
-    color: #0d2c40;
+    color: #FFFFFF;
+    margin: 0;
 }
 
 h2 {
@@ -37,8 +38,38 @@ p {
 a {
     text-decoration: none;
     font-family: "Raleway";
-    color: #F15B31;
+    color: #FFFFFF;
     letter-spacing: 1px;
     font-weight: 600;
     font-size: 18px;
+    margin: 20px;
+}
+
+header {
+    background-color: #F15B31;
+    color: #FFFFFF;
+    padding: 30px 20px 30px 20px;
+}
+
+body {
+    margin: 0;
+}
+
+nav {
+    background-color: #00A6B3;
+    color: #FFFFFF;
+    padding: 20px
+}
+
+span a {
+    color: #F15B31;
+}
+
+main {
+    width: 850px;
+    margin: 35px auto;
+}
+
+img {
+    margin: 40px 8px;
 }
