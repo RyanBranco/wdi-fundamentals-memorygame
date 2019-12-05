@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    font-size: 45px;
+    letter-spacing: 1px;
+    color: #0d2c40;
+}
+
+h2 {
+    font-family: "Raleway";
+    color: #0D2C40;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+h3 {
+    font-family: "Raleway", sans-serif;
+}
+
+.developer {
+    font-family: "Droid Serif";
+}
+
+img {
+    margin-top: 50px;
+}
+
+p {
+    font-family: "droid Serif", serif;
+}
+
+a {
+    text-decoration: none;
+    font-family: "Raleway";
+    color: #F15B31;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-size: 18px;
+}
